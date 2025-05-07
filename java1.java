@@ -6,7 +6,7 @@ public class java1 {
        int[] var3 = new int[var2];
        int var4 = 0;
        int var5 = 2;
-       var5 %= var2;
+       var5 %= var2;cc
  
        int var6;
        for(var6 = var2 - var5; var6 < var2; ++var6) {
