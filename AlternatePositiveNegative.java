@@ -1,4 +1,4 @@
-public import java.util.ArrayList;
+ import java.util.ArrayList;
 
 public class AlternatePositiveNegative {
     public static void rearrange(int[] arr) {
