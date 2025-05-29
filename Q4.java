@@ -29,6 +29,4 @@ public class Q4{
 
         printPascalsTriangle(rows);
     }
-} {
-    
-}
+} 
