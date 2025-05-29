@@ -1,4 +1,4 @@
-public import java.util.Scanner;
+ import java.util.Scanner;
 
 public class Q4{
     public static void printPascalsTriangle(int n) {
